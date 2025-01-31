@@ -52,7 +52,7 @@ For other issue you're facing about i18n support from Astro, read the [Astro Doc
 
 
 ### Using Rough Notation
-Leo is an Astro theme inspired by another Astro theme [Mia](https://github.com/infinity-ooo/astro-theme-mia). So is also based on the [Rough Notation](https://roughnotation.com/) library. You can use `<Notation />` component in your MDX content, such as:
+Joseph is an Astro theme inspired by another Astro theme [Mia](https://github.com/infinity-ooo/astro-theme-mia). So is also based on the [Rough Notation](https://roughnotation.com/) library. You can use `<Notation />` component in your MDX content, such as:
 
 ```mdx
 In JavaScript, the Array object can be seen as a combination of both <Notation type="box" color="blue">list storage</Notation> and <Notation type="box" color="blue">utility methods</Notation>, providing a unified structure for storing and manipulating data.
