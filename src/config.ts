@@ -1,14 +1,14 @@
 
 
 export const SITE_FAVICON = "/favicon.png";
-export const SITE_LOGO = "/leo.png";
+export const SITE_LOGO = "/joe.jpg";
 export const SITE_TITLE = "Joseph's Space";
 export const SITE_URL = "https://astro-theme-leo.muji.dev";
 export const SITE_DESCRIPTION =
   `
   This is a space where creativity meets logic. As a passionate frontend engineer and dreamer inspired by the vastness of space, Leo shares insights on cutting-edge web development, personal projects, and the exploration of new technologies. With a unique blend of technical expertise and a love for innovation, this blog is a journey into problem-solving, design, and the limitless possibilities of the digital universe.
 `;
-export const ME_AVATAR = "/leo.png";
+export const ME_AVATAR = "/joe.jpg";
 export const LANGUAGES = ['en', 'zh'];
 
 export const MENUS = [
@@ -24,18 +24,22 @@ export const MENUS = [
   },
   {
     title: "Github",
-    link: "YOUR_GITHUB_URL",
+    link: "https://github.com/jbanson1",
     target: "_blank",
     icon: "github",
   },
 ];
 
-export const FOOTER_CONTENT = "Mr.Leo. All rights reserved.";
+// linkedIn: "https://www.linkedin.com/in/joseph-banson/",
+//   github: "https://github.com/jbanson1",
+//   email: "mailto:jdotbans@gmail.com",
+
+export const FOOTER_CONTENT = "Mr Banson All rights reserved.";
 
 export const CONTACTS = {
-  linkedIn: "YOUR_LINKEDIN_URL",
-  github: "YOUR_GITHUB_URL",
-  email: "mailto:YOUR_EMAIL",
+  linkedIn: "https://www.linkedin.com/in/joseph-banson/",
+  github: "https://github.com/jbanson1",
+  email: "jdotbans@gmail.com",
 };
 
 export const SLOGAN = "To infinity and beyond!";
