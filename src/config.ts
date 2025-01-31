@@ -39,7 +39,7 @@ export const FOOTER_CONTENT = "Mr Banson All rights reserved.";
 export const CONTACTS = {
   linkedIn: "https://www.linkedin.com/in/joseph-banson/",
   github: "https://github.com/jbanson1",
-  email: "jdotbans@gmail.com",
+  email: "mailto:jdotbans@gmail.com",
 };
 
 export const SLOGAN = "To infinity and beyond!";
